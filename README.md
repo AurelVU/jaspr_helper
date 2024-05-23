@@ -2,4 +2,4 @@
 
 ## Demo
 
-!()[https://github.com/AurelVU/jaspr_helper/blob/main/demo.gif]
+![](https://github.com/AurelVU/jaspr_helper/blob/main/demo.gif)
